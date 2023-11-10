@@ -1,0 +1,26 @@
+{
+  "name": "Alan Henderson",
+  "age": 19,
+  "address": {
+    "street": "Esorin Circle",
+    "city": "Hungacgi",
+    "state": "AK",
+    "zip": "23344"
+  },
+  "contact": {
+    "phone": "(403) 636-6208",
+    "servicePhone": "800123546"
+  },
+  "birthday": "1994-05-13T14:27:50.112Z",
+  "ip": "197.255.230.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Udgew azuretbi wini ug uwuraaku kissu rifbag hemajiz isbu ablosa uwdeh ifirazis pikhodco. Rokbihe dirzemtu tabok walovor ikacikipi wi alewe virodfo pom radvolsu iweuvi kesrasen lecjuoru behfigof povib cog. Goci afi koajese fuchov mecigmo capram ocder sankif efawitil ehuul siuhacu dole tad redu. Numtetu guku vakpezane nat werucopof mumwu ib fimmigov wafgufza daca iktes toajto dovutgi ewi mu kawvolmuh cowuh icibic.",
+    "bio": "Vithuke not ves gis agifo ohasoh zor wefe asvirfor joh likdetub mogbawe kib. Uwoumuwa barenhod sudgo racha revteh metvobino ohu amehazu mihloic vegweg ipotetik rolaw not. Nulo wuk diarjof ohufudu wujkuz nebpim zukvum go vasebsam jazbo anawevup leswedok cumis. In kunhupati giclegdi utodi ehhefzur piscije tunenu me edsolfaw jucobseg hutbe powuw. Rac lipalo it penuvnih os nubovi va erizomahi gezbo pute mul elfah defhampi zifi je ruwejav pevucioze. Bim kil kalebo bilosuz wivev do gah ak eh kinreip jit rubil mihguipu vos lileiv aja."
+  },
+  "apiKey": "2fa3bf235dd7ea7849497c17d9498017311ae2ba27723170453015296a38c70f",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
