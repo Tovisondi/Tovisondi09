@@ -1,0 +1,26 @@
+{
+  "name": "Agnes Bennett",
+  "age": 42,
+  "address": {
+    "street": "Saon Heights",
+    "city": "Tifozezo",
+    "state": "OR",
+    "zip": "83032"
+  },
+  "contact": {
+    "phone": "(918) 994-8645",
+    "servicePhone": "800261645"
+  },
+  "birthday": "1999-12-11T10:06:56.906Z",
+  "ip": "189.194.78.218",
+  "foo": "bar",
+  "profile": {
+    "about": "Av da ga veleso ize viv jivu riwajed rismavpu woaneluj vuvufjo gizukvu aphi kuzugep wude jaj. Sovuwav vuhdevki nef ri ziim zij taajfu lut woolkaj covzov wac kawer ano re kil moguwtuf ijedukat. Nohul fo tezduj iju ec tozaji cejnegihe ohuzaw ucehigid fab teskitip re it zojfec rumesu lohcefdim wul dugerol. Uv cocsaraj ji ve si ewuejoj pavnewip uf duef duturod dinazlid cijoabe gako.",
+    "bio": "Mep tambupo ezbaate malloti muwu lijzopze lefa lih juc evojem toscu ehemufboz. Iru as di eci jubawew nibbigza jufhuzim pikcozod ibop lezar le rihzaje witkudi rofnotev puej zipwi. Nesdihnul hocirhum gig gatjen fuz husa vupudwe enure da vibilamaw niropav en fu ciki ujuf."
+  },
+  "apiKey": "21d2de52792c122505ae4136819830f3bc72d3061a62603fc6658b02558441d4",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
