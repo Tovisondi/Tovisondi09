@@ -1,0 +1,26 @@
+{
+  "name": "Max Moreno",
+  "age": 59,
+  "address": {
+    "street": "Uswu River",
+    "city": "Wahusak",
+    "state": "MA",
+    "zip": "97831"
+  },
+  "contact": {
+    "phone": "(670) 360-7044",
+    "servicePhone": "800232498"
+  },
+  "birthday": "1963-05-10T12:29:02.204Z",
+  "ip": "240.195.13.27",
+  "foo": "bar",
+  "profile": {
+    "about": "Kun sa um saotucan jepuw zan zuzoro ofugoiv jevgu coho rudge ja dorhapez decdisgon. Des gur folueko kejce van puoba do vudmelar kod nuadu ora po uwipefhun. Rocpa vug ajad fewot li sam uhvifje bowed udajuum tobegom fagmaca bapwe ikebud. Ra uhocve ugjab muwijtak wubicow bizerdu bopowwe legu ke ocusacso padsev kecbokar fecu ri uf lu zapgedi di.",
+    "bio": "Hokfa sife eheawati nogwezmev esife abu hir tokvi epbebal ces jiomugo ga gunfudig rumkalib zo wujpi hop. Rijbi ilimawij je rak sizzifezo wuhsima mesud uvkoag douse destozu asiaj jimtawo duowajup rifofod ur. Wup ra girna lap gibgud duza sute devahob isi ocfem irile wepod gioba fazituj sa oba wo. Numjaug ip ok koplo zaipo ep vu va camakok ceh sadpobop hidokez polihu uvukesjij. Topufa etefec zehuw fejrel du idodocub tiik ire sito novviri ba kuhoje ugeunacon meez wir. Er mituhmu dohir if ponazo haunodu gel moupu oruromi bejudo muflahug was."
+  },
+  "apiKey": "39c6b70c5152c0afceb671e1d9c753f760aad2041b4a8d9946d026f8282351f9",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
