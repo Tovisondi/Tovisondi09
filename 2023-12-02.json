@@ -1,0 +1,26 @@
+{
+  "name": "Charles White",
+  "age": 59,
+  "address": {
+    "street": "Lire Terrace",
+    "city": "Mofakgu",
+    "state": "KS",
+    "zip": "51354"
+  },
+  "contact": {
+    "phone": "(230) 767-1967",
+    "servicePhone": "800298687"
+  },
+  "birthday": "2006-05-21T19:54:59.243Z",
+  "ip": "139.187.158.46",
+  "foo": "bar",
+  "profile": {
+    "about": "Tatper po ihoger fuobu duji zogovigas cecvij hogembod ga buda fivveg emekuk. Do po ba vec gaf so ecuiv rukgivapa hezeb pikzesog vufowa mosfak. Vunec muwapel kezom wiciswo piw genezwe wi fu ok dumun bened ofdu futud lipre laesbez viswohza.",
+    "bio": "Okuos opgic noziti huvuh afuvave nepbiw dugatu age fiebvo cacewi dubzapad ketco wi. Ole memoda behbaaz fut wuhic kubmudel te mocomuro kokofa zozcufmar pu jizropej. Jukcer za niofi nibavi udisogo geg hegti vocko fe udwunge ta fodcocnin vipi ata."
+  },
+  "apiKey": "23b76dc63a94bda5520ebc1194b6389d822203c1304cec5b16c009522a45ec5c",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
