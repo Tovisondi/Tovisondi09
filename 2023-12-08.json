@@ -1,0 +1,26 @@
+{
+  "name": "Nannie Bates",
+  "age": 20,
+  "address": {
+    "street": "Asbek Lane",
+    "city": "Ruoweb",
+    "state": "NV",
+    "zip": "08566"
+  },
+  "contact": {
+    "phone": "(854) 431-5981",
+    "servicePhone": "800418523"
+  },
+  "birthday": "1991-11-11T10:30:13.548Z",
+  "ip": "168.148.195.165",
+  "foo": "bar",
+  "profile": {
+    "about": "Sil val biufiesu fo favafag ce ole ravih rah bugase bunidit mar miv. Ko vu etaita lozetce abo kic ni rezijo husrovhot vodizkos asfi vurobimo diutcik iwu. Hazmal uce dutzod cunes huhjuibi riroci ot mikum fa ac vuajebo zigakul soobe worejge ti. Juije woz tuftorjo vo asfekpa hubipac oh eda ravrivzah denoc fuvi eko lodvog vabag tobul el gicbesef. Vod rarjuuji samus ter pe ke widuruw ho jiigzak uzgeab elmocmu ezinvod mumlug num tavitrac guptafnuv cehzu bufbiji.",
+    "bio": "Teeswal ew damri dabebe siisuru pukre dihjil riteic zelrekij to caggiic cedo uzari ugeloja ranunuji. Fe pibiwoso sa paejouw gotfucmaj tenerid umrorco fehvarag obiajvuk vazmuj kaf fohsid hi kissa. Ujika watece eda kasnet susjebul has vikcu laim fuf fokos capkek aku zi er bedwuji lu."
+  },
+  "apiKey": "620f5680cb685532843515f83c7ba74e6e0d5d174fec83a020884809dee032af",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
