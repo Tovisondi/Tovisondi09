@@ -1,0 +1,26 @@
+{
+  "name": "Cole Alexander",
+  "age": 19,
+  "address": {
+    "street": "Gijweb Mill",
+    "city": "Cuofsel",
+    "state": "DC",
+    "zip": "27586"
+  },
+  "contact": {
+    "phone": "(483) 435-6059",
+    "servicePhone": "800458829"
+  },
+  "birthday": "1968-08-14T04:04:37.619Z",
+  "ip": "5.191.218.162",
+  "foo": "bar",
+  "profile": {
+    "about": "Akigon tafehwe kemeva iheicawup iduwir gewfo di ewtutabe kozcupi abmuc ah renugda geg be. Vikephep wuifne ama gi toetuhag jowuwa ma pesnil afa jekcut hogra bo juhove wod. Pen nu tosi vumgefi pivusuda vafohuz kuz pot salin ucri totvuh mol tub du jisge jaja uple mutuwa.",
+    "bio": "Jodava lida izadica bivfuc pakoeh ajbaziv puk hebiwas uhu ga citagget nafu ife ojnanaz lufrabid. Hakurbe tot ihebor irbin lafzu balu nuhcus ate id catil jufap lamvac lovzogsot helu bezva. Ricu wintos leviice sej sociwwu uli cis otvugov vakla gipec warap bewnu."
+  },
+  "apiKey": "9ccbb3565aab1577e8d0ae00434dfecdbc9a69efa288fc8b60a3aae244c70055",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
