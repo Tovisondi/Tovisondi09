@@ -1,0 +1,26 @@
+{
+  "name": "May Hawkins",
+  "age": 55,
+  "address": {
+    "street": "Voeg Center",
+    "city": "Ejadno",
+    "state": "NJ",
+    "zip": "53479"
+  },
+  "contact": {
+    "phone": "(339) 472-8365",
+    "servicePhone": "800981346"
+  },
+  "birthday": "1986-10-13T19:45:46.049Z",
+  "ip": "55.156.193.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Fi incahmis uh we wa ici tufcu paljuodi jo urewnem atalaksuc adimolal. Seznedup majmadli pajke conhildi wom lu ifif tili faj rew wofme gutniw vekhew zivu di ciwosa. Benja va le so imceka goh wogga dikih lumo ap wo kegtuwa ikeka ufdi lufvija til omkuj. Tisa pahki ifotot buni ojmuvre ro nu enaes nazhi naciho zuz am ovmilwo sewalek sucgu. Ucavejna wod jodub gut arekaza sigecek we inva jag ni sattesek zidrovlem atior omuledre pob ih ne antupgi. Hu ja bina ol seaho tor hunaf ifzojkem zewiira adewu vuh atgomga doij jupwif tu goznalna. Cehiwi sevvakrit zi lubno essi cijasah poariwe rep wetfu el jejaf mohjegag.",
+    "bio": "Wilecno opetap ahehaptug feh sehot wimiwigap jisedo eh ev la vacan potjela rawivcop coltaroz. Zi zijfu muj la habocu odvagi zo akoizubo vi dizuf avoron kuhnag mapowvus vurtifnoc hen. Pup nuftul rufnid kapir pecoet la pubmuari tomji monpamav ju hajmad gagwa soveruze ka nivo vanfoit notima."
+  },
+  "apiKey": "23d25ae11ef74a71a8023f0776dee7c8ca7de545a21a17954adf0c91a531535a",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
