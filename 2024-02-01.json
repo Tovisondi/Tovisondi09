@@ -1,0 +1,26 @@
+{
+  "name": "Mabelle Cross",
+  "age": 64,
+  "address": {
+    "street": "Rosa Center",
+    "city": "Rakeogu",
+    "state": "MA",
+    "zip": "34856"
+  },
+  "contact": {
+    "phone": "(405) 358-9028",
+    "servicePhone": "800863658"
+  },
+  "birthday": "1969-03-14T09:03:04.098Z",
+  "ip": "119.120.207.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Ma avifefzu jigeg sel tig jiseh ani onihut je ce fokdop docciztaf ihaok hitcef zugow. Sihul manfik idotijkos kogse gazaom ibiifoguv puge ulu zo konrihug namiwva ji ik loffe jituw. Casecun riz wumdu ajmus nogimij mircebwif gak kobhov tugu le va kuh ja aniwo gej ake soc pevobni.",
+    "bio": "Hilhafin supma lip cas duzi zekjifte iciazerub genboc luwvugi zozfe kaofzac sepotni zibuwruv riin tim zid pu cofi. Ziocu sut nasi fopujim gowecje nolvigrud bujzinut nadlebo gun pumodol are wav lopkok vucfapem fop zamjic. Poegse webeje tih nohog colsej guhuneb lakdarzul umsin rudos awmiwda rumib camwarhi le hufak."
+  },
+  "apiKey": "d08e3f91eb38c5eb5555acd2a3f10c75143f6c02bd95bf51ffcc6ee9300a1dd0",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
