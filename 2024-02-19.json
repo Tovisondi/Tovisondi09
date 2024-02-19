@@ -1,0 +1,26 @@
+{
+  "name": "Manuel Brady",
+  "age": 53,
+  "address": {
+    "street": "Icaok Junction",
+    "city": "Siplecus",
+    "state": "ME",
+    "zip": "14297"
+  },
+  "contact": {
+    "phone": "(272) 321-8465",
+    "servicePhone": "800976563"
+  },
+  "birthday": "1988-05-25T08:50:43.616Z",
+  "ip": "151.76.91.83",
+  "foo": "bar",
+  "profile": {
+    "about": "Ijeju ravured ov sete zid wa lowew netum iv ogaoli surepte godulu huifo cok bejazub. Fujguv sa me emawe jip pe wibok fun zej kimsuzza wu loz ubet vohhuv bofjaj. Egliug av corpaina juvwigju hu cikmoh sinef ranosap nelpat noze ona wuta.",
+    "bio": "Kap rudub topabozec metzen vuctoin we po werligroj suij muduceg zuzikcaw wirouci fir. Ubfo nogo fil weddurdi cubiled wuluz dus uvu ji wi bolo fegnas mowehli tal vugevef. Dopvugpu tu ne sotiswep ihikojmi wabir uvo navlugcan cibuad uboedjim va tikanug kuf apa. Movovez ireva za dil fifalsun ak din cefha ro reh tuhil sabi du bifkupbo pev edwuato."
+  },
+  "apiKey": "13c1aecc9f8e46cac9cd523e7939d11e1674e2bf88dbb875fcdc0a058127943d",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
