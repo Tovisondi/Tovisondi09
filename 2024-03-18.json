@@ -1,0 +1,26 @@
+{
+  "name": "Rose Wood",
+  "age": 65,
+  "address": {
+    "street": "Hafvic Highway",
+    "city": "Mokwemme",
+    "state": "OH",
+    "zip": "03478"
+  },
+  "contact": {
+    "phone": "(558) 970-8444",
+    "servicePhone": "800155592"
+  },
+  "birthday": "1973-09-22T16:44:15.936Z",
+  "ip": "199.71.245.185",
+  "foo": "bar",
+  "profile": {
+    "about": "Esa igacut neanoed cuje egi ju goviede zak gazomac tosper gumefir was wehih gu fadlaemo. Rocdioda niti dor hi uj bo temhivva zobembed bi iherebar muzabip badet ji nuja um ek emrozo nirnec. Sodpadan fikguhge ridkilub tiwuzzor zotde dohro gapazi habov nurbikuzo juj gumrizcu hordatboc mupak ivogiznim jo pu rozeka ralzu. Vageve vumo cecduvciv la udugo panuf kafec za uhburkuw zi ret maecieci bobcoku.",
+    "bio": "Dah ihogih doropge du jubanaki hibaloce se ha lumzit as bal wate. Usese fe womfib urba er jan zojokdem nahjojano fetofu pelim omre te om fo veaba wijla. Not rurawhu wet cehdibroc lalinmat aculab ro sidfe ezina wobgubbu kuj kufto don la."
+  },
+  "apiKey": "0767de27dc5becaef007980c45e3453a3c323e73874426f7262bf290bdb72cc2",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
