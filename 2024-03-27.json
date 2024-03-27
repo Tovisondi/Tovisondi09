@@ -1,0 +1,26 @@
+{
+  "name": "Cole Banks",
+  "age": 63,
+  "address": {
+    "street": "Podo Park",
+    "city": "Tipbida",
+    "state": "DC",
+    "zip": "46216"
+  },
+  "contact": {
+    "phone": "(503) 733-9833",
+    "servicePhone": "800496994"
+  },
+  "birthday": "1971-10-04T01:42:05.689Z",
+  "ip": "223.247.73.36",
+  "foo": "bar",
+  "profile": {
+    "about": "Bummow fasmi cejep zek ifejuv buuga wocfu fazum ruliz jepi ode pogudu ja guvja fe kubutog. Gioc fo ra jipa gofwa duhhovrij dujin podijbol mimrufu talibjuz gevu bi no vitpa. Wul mopenaho makal os tikgagit egjoc noteg pa ciafi poeniri homjuez ohe go guw ni. Uliwe wo jeje jiimwu pimgic lo tu aculal gonip cituhewa cor bertan piat hasbe lef.",
+    "bio": "Nevif eri fobewo lusi kaajdad nu dakizbet je aco kobni dimneru vew sasvu pi ijojupa. Rerutak bafug on higmozwe keru uvokawo titviror viopurej odi ruj dadin jetbum te cecla muz tatoja. Onpuj dajeeze tezgob mapmuf pafwavfec ajnifen la huto onmola pakvin ane fif lezuwi coc sahugu ha tivet foadlih."
+  },
+  "apiKey": "5d54610e6d12c5ff01483b53507855728704da40dd964e58afee89aa147ce364",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
