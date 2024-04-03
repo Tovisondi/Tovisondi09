@@ -1,0 +1,26 @@
+{
+  "name": "Alberta Moss",
+  "age": 42,
+  "address": {
+    "street": "Huaz Court",
+    "city": "Kulogi",
+    "state": "DE",
+    "zip": "76530"
+  },
+  "contact": {
+    "phone": "(728) 510-2064",
+    "servicePhone": "800367337"
+  },
+  "birthday": "1989-08-08T20:39:10.414Z",
+  "ip": "197.19.23.77",
+  "foo": "bar",
+  "profile": {
+    "about": "Tej por je suakca le ife disachi pesdahe citata ki ri efo eri setune ne ojzah ow. Siw ve vimlo fennefi okdu pelnaesu oheeg liluduze gusirfu vavo haegucad ini ocla. Weiwe bihwe patlohe ruzam itlero guncejev ricoew fuzir hubir kejep jev ce ce uma vimhihrej zuz.",
+    "bio": "Dunzocbu pa wepuf efah tebsuv ajoukogus useli api homihuem ranveado babav marivze ebe haswav ewralbo. Fatehuf zouduhev ja lovcig obibam bat vuv gobomu fok surnu wokjobbi zan beak uta saluj jem simo evbazid. Zigohzo hujajge rebeose pespo toremrac asvezis itoodovu eneko wojad ecomelaj hihki pajanum tu du. Ato rocehmo githu tebcikjoj umu alcufhe je pe peg gub miijuze gejtel dorbiga rifos devetofik jafowwup gapi. Wadimrus bazoc pis wo tectam odinaffa pirnaf tambejon dubki mec pudecku cofe."
+  },
+  "apiKey": "cda07adf90f5f229fb741aeaf0c293db58d953935e4dda2d69f23bc02a3da0f5",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
