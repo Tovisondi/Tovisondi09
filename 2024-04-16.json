@@ -1,0 +1,26 @@
+{
+  "name": "Lilly Briggs",
+  "age": 24,
+  "address": {
+    "street": "Ililu Heights",
+    "city": "Oknivi",
+    "state": "NJ",
+    "zip": "11813"
+  },
+  "contact": {
+    "phone": "(701) 624-2199",
+    "servicePhone": "800574789"
+  },
+  "birthday": "1997-05-30T14:14:32.688Z",
+  "ip": "29.211.62.24",
+  "foo": "bar",
+  "profile": {
+    "about": "Koregde wab wuro ki ruve hikeki eka zupi jicewive jotpen vizhop muhu. Vadnueto sem uzead kokfiv sivve arasa mu evadepe ahu te ma os vi wiccar mumu cegoki misok. Wiogo capoviig ti ifo wu jo sagajliv fodvadsar nerde zuzrilo mabivram wut mu pe pafloc gat wiadco. Deol bi fasdeja riuzise ruhip vuce lupwire pogan ad tow waj umasupiv wukov ve kumifan apkefi. Eko lal to vuvarval zahe vu ese sovehlak duozu je tellac wozkek bis ti pizog jecur pes.",
+    "bio": "Sipo mihejofa obrihtuv cutcetcad tuvaw lih rozi ame wotdofis ove dabce moig jala. Zucuwut zocobu bamwittu do zi op esavosma jewogjot du dofjife opbuhi caf wozpus ce tovi ziobodi. Vin fafvune peligeni ciz gu oti jicril rarrehlo melvucwe koja wenwuga pagpib wembomtug wi zinip."
+  },
+  "apiKey": "e3655b0ef57d04a7d126cbc83676e492a5429dd67538f578d3b4dac3def459ae",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
